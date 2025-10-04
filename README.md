@@ -1,4 +1,4 @@
-Text Summarizer AI App
+Text Summarizer AI App - 
 A tiny AI-powered app that summarizes news articles or blog posts into 3 concise sentences.
 This project is part of the Intern Assignment: Build a Tiny AI-Powered App. The goal is to show effort, creativity, and learning using AI, even without prior coding experience.
 
