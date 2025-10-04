@@ -22,9 +22,8 @@ export HUGGINGFACE_API_KEY="your_api_key_here"
 Usage (Part 2):-
 -Run the Python script:
 python summarizer.py
-
-Paste or type your text (news article, blog post, or any long text).
-Receive a summarized version in 3 sentences.
+-Paste or type your text (news article, blog post, or any long text).
+-Receive a summarized version in 3 sentences.
 
 Example Usage Snippet:-
 from summarizer import summarize_text
