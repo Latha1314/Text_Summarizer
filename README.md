@@ -40,6 +40,6 @@ Documented all attempts, errors, and solutions throughout the project.
 Experimented with input formatting, model selection, and output style.
 Practiced integrating APIs and building a simple CLI app.
 
-Contributing
+Contributing:-
 This project is for learning and experimentation.
 You can fork and extend it by adding a UI, deploying online, or improving the summarization model.
